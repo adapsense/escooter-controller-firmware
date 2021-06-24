@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=OBC Autostart
+Comment=UP Bike Share 2018
+Comment=Exec=xterm -hold -e '/usr/bin/python3 /home/pi/Desktop/clock.py'
+Exec=xterm -hold -e 'sh /home/pi/obc_firmware/raspi/script.sh'
