@@ -9,7 +9,7 @@ How to setup a new controller
 ```
 ssh pi@192.168.0.100
 ```
-      or
+   or
 ```
 ssh pi@192.168.0.101
 ```
