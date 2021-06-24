@@ -4,7 +4,9 @@ How to setup a new controller
 1. Flash SD card with Raspbian OS.
 2. Boot the Raspberry Pi with the flashed SD card.
 3. If a monitor can't be connected
+
    a. connect a 3G dongle to the USB port
+
    b. Connect through ssh to either 192.168.0.100 or 192.168.0.101
 ```
 ssh pi@192.168.0.100
